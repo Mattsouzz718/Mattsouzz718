@@ -2,10 +2,10 @@
 Um estudante sobrevivendo ao SENAI
 
 
-## 🌐 Contato:
+## 🌐 Contatnho:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/olokoehomattu?igsi=aDRpMWRiZm9ieGNy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateus-de-souza-2b7798366?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 
-# 💻 Tech Stack:
+# 💻 Stack Tecnológica:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
 # 📊 Status:
 ![](https://github-readme-stats.shion.dev/api?username=Mattsouzz718&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
