@@ -1,4 +1,4 @@
-# 💫 Sobre eu ne:
+# ℹ️ Sobre mim:
 Um estudante sobrevivendo ao SENAI
 
 
@@ -11,9 +11,6 @@ Um estudante sobrevivendo ao SENAI
 ![](https://github-readme-stats.shion.dev/api?username=Mattsouzz718&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Mattsouzz718&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mattsouzz718&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Citação aleatória de desenvolvedor porque eu acho foda
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Repositório com mais contribuições
 ![](https://github-contributor-stats.vercel.app/api?username=Mattsouzz718&limit=5&theme=dracula&combine_all_yearly_contributions=true)
