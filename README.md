@@ -56,7 +56,11 @@
 
 ## ✨ Extras
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mattsouzz718/Mattsouzz718/output/github-contribution-grid-snake-dark.svg">
-  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/Mattsouzz718/Mattsouzz718/output/github-contribution-grid-snake.svg">
-</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mattsouzz718/Mattsouzz718/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mattsouzz718/Mattsouzz718/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mattsouzz718/Mattsouzz718/output/github-snake.svg" />
+  </picture>
+</p>
