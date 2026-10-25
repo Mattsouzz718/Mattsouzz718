@@ -55,8 +55,6 @@
 <a href="https://github.com/Mattsouzz718/Projeto-Equiplex-SSL-Guard"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mattsouzz718&repo=Projeto-Equiplex-SSL-Guard&theme=tokyonight&hide_border=true" alt="Projeto-Equiplex-SSL-Guard"></a>
 </p>
 
-## ✨ Extras
-
 
 <p align="center">
   <picture>
