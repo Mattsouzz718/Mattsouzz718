@@ -6,9 +6,9 @@
 
 👋 Olá meu nome e mateus, um estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia, programação e inovação. Tenho interesse em Python, Arduino, IoT e desenvolvimento de software, sempre explorando novas ferramentas e criando projetos práticos.  Estou em constante aprendizado, buscando evoluir minhas habilidades e transformar ideias em soluções reais.
 
-## 🛠️ Tech Stack
+## 🛠️ Dev Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Linguagens de programaçao
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -20,13 +20,13 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </p>
 
-### 🗄️ Databases
+### 🗄️ Banco de dados 
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
-### 🧰 Tools & Design
+### 🧰 Ferramentas & Design
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -36,19 +36,19 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 </p>
 
-## 🌐 Connect With Me
+## 🌐 Se conecte comigo
 
 <p align="center">
 <a href="https://instagram.com/https://www.instagram.com/krleomatt/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-## 📊 GitHub Stats
+## 📊 Linguagem mais usada
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattsouzz718&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="top languages">
 </p>
 
-## 📦 Featured Projects
+## 📦 Principais projetos
 
 <p align="center">
 <a href="https://github.com/Mattsouzz718/Projeto-Equiplex-SSL-Guard"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mattsouzz718&repo=Projeto-Equiplex-SSL-Guard&theme=tokyonight&hide_border=true" alt="Projeto-Equiplex-SSL-Guard"></a>
