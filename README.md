@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./35904F38-8531-4232-AAE7-6AE04B0A4F6D.gif" width="100%" alt="Meu banner">
+  <img src="./fe3ea82468b9ecde35a346cc2074de67.gif" width="100%" alt="Meu banner">
 </p>
 
 <h3 align="center">Mateus de sousa oliveira</h3>
