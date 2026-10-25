@@ -58,12 +58,3 @@
 <p align="center">
 <a href="https://github.com/Mattsouzz718/Projeto-Equiplex-SSL-Guard"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mattsouzz718&repo=Projeto-Equiplex-SSL-Guard&theme=tokyonight&hide_border=true" alt="Projeto-Equiplex-SSL-Guard"></a>
 </p>
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mattsouzz718/Mattsouzz718/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mattsouzz718/Mattsouzz718/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mattsouzz718/Mattsouzz718/output/github-snake.svg" />
-  </picture>
-</p>
