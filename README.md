@@ -4,7 +4,6 @@
 
 <h3 align="center">Mateus de sousa oliveira</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Mattsouzz718&style=for-the-badge&color=6E85FF" alt="profile views"></p>
 
 👋 Olá meu nome e mateus, um estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia, programação e inovação. Tenho interesse em Python, Arduino, IoT e desenvolvimento de software, sempre explorando novas ferramentas e criando projetos práticos.  Estou em constante aprendizado, buscando evoluir minhas habilidades e transformar ideias em soluções reais.
 
