@@ -43,11 +43,15 @@
 <a href="https://instagram.com/https://www.instagram.com/krleomatt/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-## 📊 Linguagem mais usada
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattsouzz718&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="top languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mattsouzz718/Mattsouzz718/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mattsouzz718/Mattsouzz718/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mattsouzz718/Mattsouzz718/output/github-snake.svg" />
+  </picture>
 </p>
+
 
 ## 📦 Principais projetos
 
