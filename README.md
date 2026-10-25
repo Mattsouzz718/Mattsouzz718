@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=180&color=707070&section=header&text=Hi+there%2C+I%27m+Mateus+de+sousa+oliveiraa+%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner">
+<p align="center">
+  <img src="./35904F38-8531-4232-AAE7-6AE04B0A4F6D.gif" width="100%" alt="Meu banner">
+</p>
 
 <h3 align="center">Mateus de sousa oliveira</h3>
 
